@@ -1,6 +1,7 @@
 ## ⚔️ ♥️ Dungeons of Latserolf ♥️ ⚔️
 
 Em **Dungeons of Latserolf**...
+Repositório original: https://github.com/gabridulol/DungeonsOfLatserolf
 
 ## Desenvolvedores
 
